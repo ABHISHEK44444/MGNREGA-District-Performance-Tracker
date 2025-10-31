@@ -1,0 +1,8 @@
+{
+  "name": "MGNREGA District Performance Tracker",
+  "description": "An application to help citizens understand the performance of the MGNREGA program in their district in a simple, easy-to-understand manner. It provides current and past performance data with visual charts and AI-powered explanations.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
